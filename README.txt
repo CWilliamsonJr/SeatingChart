@@ -1,0 +1,2 @@
+While learning Ajax I decided to take one of their projects and redo it using jQuery so I could get an idea of how jQuery works. 
+the jquery-script.js file is the one I did and the script.js is the instructor's file.
